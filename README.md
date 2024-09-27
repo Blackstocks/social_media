@@ -1,7 +1,5 @@
 # Social Media Platform using Django
 
-![Project Banner](https://raw.githubusercontent.com/Ayushsav/social-media/main/socialmedia/media/post_images/show.png)
-
 Welcome to the Social Media Platform project built using Django! This project aims to create a basic social media platform where users can register, log in, post updates, connect with friends, and more. The platform provides a foundation that you can extend and customize to create your own unique social media experience.
 
 ## Table of Contents
@@ -11,7 +9,6 @@ Welcome to the Social Media Platform project built using Django! This project ai
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 
 ## Features
@@ -41,7 +38,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ayushsav/social-media.git
+   git clone https://github.com/Blackstocks/social_media.git
    ```
 
 2. Navigate to the project directory:
@@ -108,14 +105,3 @@ Before you begin, ensure you have the following installed:
 - Explore the news feed to see posts from friends.
 - Log out when you're done using the platform.
 
-## Contributing
-
-Contributions to this project are welcome! To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m "Add feature"`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request describing your changes.
-
- 🚀
